@@ -6,4 +6,5 @@ Git is a 可爱的 version control system.
 天哪我创建了一个分支
 天哪我打算在master分支上搞点事情
 新建了一个分支
+我要来尝试分支管理策略啦
 Git is free software.
